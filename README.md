@@ -1,2 +1,6 @@
 # testgit
 テストのファイル
+
+##メンバー
+
+*testmember
